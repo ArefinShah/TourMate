@@ -1,0 +1,4 @@
+#Fri Jun 01 14:17:00 BDT 2018
+base.0=D\:\\projects\\TourMate\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

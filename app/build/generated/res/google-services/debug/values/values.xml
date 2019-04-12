@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">507709710015-cqs8u31mf52nibilka091vtanh3c5i4u.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://tour-mate-88b47.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">507709710015</string>
+    <string name="google_api_key" translatable="false">AIzaSyA4sSRKhaX19sSi98eJbkCxdEC1iQjLXWI</string>
+    <string name="google_app_id" translatable="false">1:507709710015:android:db220f64cc6bda94</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4sSRKhaX19sSi98eJbkCxdEC1iQjLXWI</string>
+    <string name="google_storage_bucket" translatable="false">tour-mate-88b47.appspot.com</string>
+    <string name="project_id" translatable="false">tour-mate-88b47</string>
+</resources>
